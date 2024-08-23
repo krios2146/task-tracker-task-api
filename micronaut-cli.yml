@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: dev.krios2146.tasktracker
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [app-name, cache-caffeine, data, data-jdbc, flyway, gradle, http-client-test, jdbc-hikari, junit, kotlin, kotlin-application, ksp, logback, micronaut-aot, micronaut-build, micronaut-http-validation, netty-server, openapi, postgres, properties, rapidoc, readme, security-annotations, security-jwt, serialization-jackson, shade, static-resources, test-resources]
